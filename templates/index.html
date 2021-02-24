@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"
+      xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Car Price Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <div class="background-img" style="height: 100vh">
+        <div class="container pt-5">
+           <div class="card border-info mb-3">
+                <div class="card-header text-center">
+                    <h3>Car Price Prediction</h3>
+                </div>
+               <div class="card-body">
+                    <form method="post" action="/predict" class="form-group">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <label for="km_driven">Distance driven</label>
+                                <input class="form-control" type="text" placeholder="Distance in Km" id="km_driven" name="kilometers">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="owner">Previous Owners</label></br>
+                                <select class="form-select" name="owner" id="owner">
+                                  <option value="First Owner">First Owner</option>
+                                  <option value="Second Owner">Second Owner</option>
+                                  <option value="Third Owner">Third Owner</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6 pt-2">
+                                <label for="fuel">Fuel Type</label></br>
+                                <select class="form-select" name="fuel" id="fuel">
+                                  <option value="Petrol">Petrol</option>
+                                  <option value="Petrol + CNG">Petrol + CNG</option>
+                                  <option value="Petrol + LPG">Petrol + LPG</option>
+                                  <option value="Diesel">Diesel</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6 pt-2">
+                                <label for="transmission">Transmission</label></br>
+                                <select class="form-select" name="transmission" id="transmission">
+                                  <option value="MANUAL">MANUAL</option>
+                                  <option value="AUTOMATIC">AUTOMATIC</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6 pt-2">
+                                <label for="current_price">Current Car Price</label>
+                                <input class="form-control" type="text" placeholder="Enter 0 if car not in market anymore" id="current_price" name="current_price">
+                            </div>
+                            <div class="col-md-6 pt-2">
+                                <label for="year">Model Year</label>
+                                <input class="form-control" type="text" id="year" name="year">
+                            </div>
+                            <div class="col-md-6 pt-2">
+                                <label for="insurance">Insurance</label></br>
+                                <select class="form-select" name="insurance" id="insurance">
+                                  <option value="0">Yes</option>
+                                  <option value="1">No</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6 pt-2">
+                                <label for="condition">Car Condition</label>
+                                <input class="form-control" type="text" placeholder="Rating out of 5" id="condition" name="condition">
+                            </div>
+                        </div>
+                        <div class="row pt-4">
+                            <div class="col-md-12">
+                                <div class="text-center">
+                                    <button type="submit" value="submit" class="btn btn-outline-primary">Predict</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+
+                   {% if price > 0 %}
+                        <div class="alert alert-primary" role="alert">
+                          Selling price of your car must be around Rs.{{ price }}
+                        </div>
+                    {% endif %}
+               </div>
+           </div>
+        </div>
+    </div>
+</body>
+</html>

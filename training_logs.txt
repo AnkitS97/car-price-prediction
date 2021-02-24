@@ -1,0 +1,446 @@
+2021-02-24 10:44:24 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\train.py', reloading
+2021-02-24 10:44:24 INFO- * Restarting with stat
+2021-02-24 10:44:25 WARNING- * Debugger is active!
+2021-02-24 10:44:25 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:44:25 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:44:36 INFO- * Restarting with stat
+2021-02-24 10:44:37 WARNING- * Debugger is active!
+2021-02-24 10:44:37 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:44:37 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:44:49 INFO-127.0.0.1 - - [24/Feb/2021 10:44:49] "[37mGET /train HTTP/1.1[0m" 200 -
+2021-02-24 10:46:47 INFO- * Restarting with stat
+2021-02-24 10:46:49 WARNING- * Debugger is active!
+2021-02-24 10:46:49 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:46:49 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:46:54 ERROR-Finally loggign started
+2021-02-24 10:46:54 INFO-127.0.0.1 - - [24/Feb/2021 10:46:54] "[37mGET /train HTTP/1.1[0m" 200 -
+2021-02-24 10:48:17 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\train.py', reloading
+2021-02-24 10:48:17 INFO- * Restarting with stat
+2021-02-24 10:48:19 WARNING- * Debugger is active!
+2021-02-24 10:48:19 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:48:19 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:48:23 INFO- * Restarting with stat
+2021-02-24 10:48:24 WARNING- * Debugger is active!
+2021-02-24 10:48:24 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:48:24 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:48:28 INFO-Finally loggign started
+2021-02-24 10:48:28 INFO-127.0.0.1 - - [24/Feb/2021 10:48:28] "[37mGET /train HTTP/1.1[0m" 200 -
+2021-02-24 10:50:33 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\train.py', reloading
+2021-02-24 10:50:33 INFO- * Restarting with stat
+2021-02-24 10:50:34 WARNING- * Debugger is active!
+2021-02-24 10:50:34 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:50:34 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:50:38 INFO- * Restarting with stat
+2021-02-24 10:50:39 WARNING- * Debugger is active!
+2021-02-24 10:50:39 INFO- * Debugger PIN: 654-316-708
+2021-02-24 10:50:39 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 10:50:41 INFO-Training started
+2021-02-24 10:50:41 INFO-Merged the two datasets
+2021-02-24 10:50:41 INFO-Cleaned Current Price Feature
+2021-02-24 10:50:41 INFO-Added Age Feature
+2021-02-24 10:50:41 INFO-Cleaned Transmission Feature
+2021-02-24 10:50:41 INFO-Added Insurance Expired Feature
+2021-02-24 10:50:41 INFO-Median difference between current price and selling price is 230951.0
+2021-02-24 10:50:41 INFO-Data Cleaned
+2021-02-24 10:50:41 INFO-Preprocessed X features
+2021-02-24 10:50:41 INFO-Saved x preprocessing model
+2021-02-24 10:50:41 INFO-Saved y preprocessing model
+2021-02-24 10:50:41 INFO-XGBoost model training started
+2021-02-24 10:50:42 INFO-XGBoost model training finished with MSE of 0.04817509286522944
+2021-02-24 10:50:42 INFO-XGBoost model saved successfully
+2021-02-24 10:50:42 INFO-127.0.0.1 - - [24/Feb/2021 10:50:42] "[37mGET /train HTTP/1.1[0m" 200 -
+2021-02-24 18:07:24 INFO- * Restarting with stat
+2021-02-24 18:07:25 WARNING- * Debugger is active!
+2021-02-24 18:07:25 INFO- * Debugger PIN: 654-316-708
+2021-02-24 18:07:25 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 18:07:48 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 18:07:58 INFO- * Restarting with stat
+2021-02-24 18:07:59 WARNING- * Debugger is active!
+2021-02-24 18:07:59 INFO- * Debugger PIN: 654-316-708
+2021-02-24 18:07:59 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 18:08:26 INFO-127.0.0.1 - - [24/Feb/2021 18:08:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:08:26 INFO-127.0.0.1 - - [24/Feb/2021 18:08:26] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:08:26 INFO-127.0.0.1 - - [24/Feb/2021 18:08:26] "[37mGET /static/car.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:08:27 INFO-127.0.0.1 - - [24/Feb/2021 18:08:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:11:13 INFO- * Restarting with stat
+2021-02-24 18:11:14 WARNING- * Debugger is active!
+2021-02-24 18:11:14 INFO- * Debugger PIN: 654-316-708
+2021-02-24 18:11:14 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 18:11:18 INFO-127.0.0.1 - - [24/Feb/2021 18:11:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:20 INFO-127.0.0.1 - - [24/Feb/2021 18:11:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:20 INFO-127.0.0.1 - - [24/Feb/2021 18:11:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:21 INFO-127.0.0.1 - - [24/Feb/2021 18:11:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:26 INFO-127.0.0.1 - - [24/Feb/2021 18:11:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:26 INFO-127.0.0.1 - - [24/Feb/2021 18:11:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:27 INFO-127.0.0.1 - - [24/Feb/2021 18:11:27] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:11:52 INFO- * Restarting with stat
+2021-02-24 18:11:53 WARNING- * Debugger is active!
+2021-02-24 18:11:53 INFO- * Debugger PIN: 654-316-708
+2021-02-24 18:11:53 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 18:12:01 INFO-127.0.0.1 - - [24/Feb/2021 18:12:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:12:30 INFO- * Restarting with stat
+2021-02-24 18:12:32 WARNING- * Debugger is active!
+2021-02-24 18:12:32 INFO- * Debugger PIN: 654-316-708
+2021-02-24 18:12:32 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 18:12:44 INFO-127.0.0.1 - - [24/Feb/2021 18:12:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:30 INFO-127.0.0.1 - - [24/Feb/2021 18:13:30] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:31 INFO-127.0.0.1 - - [24/Feb/2021 18:13:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:31 INFO-127.0.0.1 - - [24/Feb/2021 18:13:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:38 INFO-127.0.0.1 - - [24/Feb/2021 18:13:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:38 INFO-127.0.0.1 - - [24/Feb/2021 18:13:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:38 INFO-127.0.0.1 - - [24/Feb/2021 18:13:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:53 INFO-127.0.0.1 - - [24/Feb/2021 18:13:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:53 INFO-127.0.0.1 - - [24/Feb/2021 18:13:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:13:53 INFO-127.0.0.1 - - [24/Feb/2021 18:13:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:13 INFO-127.0.0.1 - - [24/Feb/2021 18:14:13] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:14 INFO-127.0.0.1 - - [24/Feb/2021 18:14:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:14 INFO-127.0.0.1 - - [24/Feb/2021 18:14:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:14 INFO-127.0.0.1 - - [24/Feb/2021 18:14:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:25 INFO-127.0.0.1 - - [24/Feb/2021 18:14:25] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:25 INFO-127.0.0.1 - - [24/Feb/2021 18:14:25] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:26 INFO-127.0.0.1 - - [24/Feb/2021 18:14:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:42 INFO-127.0.0.1 - - [24/Feb/2021 18:14:42] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:43 INFO-127.0.0.1 - - [24/Feb/2021 18:14:43] "[33mGET /static/static/css/main.css HTTP/1.1[0m" 404 -
+2021-02-24 18:14:43 INFO-127.0.0.1 - - [24/Feb/2021 18:14:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:14:43 INFO-127.0.0.1 - - [24/Feb/2021 18:14:43] "[33mGET /static/static/css/main.css HTTP/1.1[0m" 404 -
+2021-02-24 18:14:50 INFO-127.0.0.1 - - [24/Feb/2021 18:14:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:16:08 INFO-127.0.0.1 - - [24/Feb/2021 18:16:08] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:16:09 INFO-127.0.0.1 - - [24/Feb/2021 18:16:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:16:09 INFO-127.0.0.1 - - [24/Feb/2021 18:16:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:16:09 INFO-127.0.0.1 - - [24/Feb/2021 18:16:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:16:45 INFO-127.0.0.1 - - [24/Feb/2021 18:16:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:16:46 INFO-127.0.0.1 - - [24/Feb/2021 18:16:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:17:05 INFO-127.0.0.1 - - [24/Feb/2021 18:17:05] "[33mGET /static/ca.jpg HTTP/1.1[0m" 404 -
+2021-02-24 18:17:06 INFO-127.0.0.1 - - [24/Feb/2021 18:17:06] "[33mGET /static/c.jpg HTTP/1.1[0m" 404 -
+2021-02-24 18:17:06 INFO-127.0.0.1 - - [24/Feb/2021 18:17:06] "[33mGET /static/.jpg HTTP/1.1[0m" 404 -
+2021-02-24 18:17:06 INFO-127.0.0.1 - - [24/Feb/2021 18:17:06] "[37mGET /static/selling-a-car.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:20:19 INFO-127.0.0.1 - - [24/Feb/2021 18:20:19] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:20:19 INFO-127.0.0.1 - - [24/Feb/2021 18:20:19] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:20:28 INFO-127.0.0.1 - - [24/Feb/2021 18:20:28] "[37mGET /static/highest-selling-luxury-cars-in-india1.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:22:40 INFO-127.0.0.1 - - [24/Feb/2021 18:22:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:22:53 INFO-127.0.0.1 - - [24/Feb/2021 18:22:53] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:23:25 INFO-127.0.0.1 - - [24/Feb/2021 18:23:25] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:23:44 INFO-127.0.0.1 - - [24/Feb/2021 18:23:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:23:45 INFO-127.0.0.1 - - [24/Feb/2021 18:23:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:23:45 INFO-127.0.0.1 - - [24/Feb/2021 18:23:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:23:57 INFO-127.0.0.1 - - [24/Feb/2021 18:23:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:25:55 INFO-127.0.0.1 - - [24/Feb/2021 18:25:55] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:27:43 INFO-127.0.0.1 - - [24/Feb/2021 18:27:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:27:43 INFO-127.0.0.1 - - [24/Feb/2021 18:27:43] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:27:43 INFO-127.0.0.1 - - [24/Feb/2021 18:27:43] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:27:44 INFO-127.0.0.1 - - [24/Feb/2021 18:27:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:34:26 INFO-127.0.0.1 - - [24/Feb/2021 18:34:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:34:26 INFO-127.0.0.1 - - [24/Feb/2021 18:34:26] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:34:26 INFO-127.0.0.1 - - [24/Feb/2021 18:34:26] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:34:27 INFO-127.0.0.1 - - [24/Feb/2021 18:34:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:41:07 INFO-127.0.0.1 - - [24/Feb/2021 18:41:07] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:41:07 INFO-127.0.0.1 - - [24/Feb/2021 18:41:07] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:41:07 INFO-127.0.0.1 - - [24/Feb/2021 18:41:07] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:41:08 INFO-127.0.0.1 - - [24/Feb/2021 18:41:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:41:26 INFO-127.0.0.1 - - [24/Feb/2021 18:41:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:41:27 INFO-127.0.0.1 - - [24/Feb/2021 18:41:27] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:41:27 INFO-127.0.0.1 - - [24/Feb/2021 18:41:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:41:27 INFO-127.0.0.1 - - [24/Feb/2021 18:41:27] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:46:47 INFO-127.0.0.1 - - [24/Feb/2021 18:46:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:46:47 INFO-127.0.0.1 - - [24/Feb/2021 18:46:47] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:46:47 INFO-127.0.0.1 - - [24/Feb/2021 18:46:47] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:46:48 INFO-127.0.0.1 - - [24/Feb/2021 18:46:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:47:12 INFO-127.0.0.1 - - [24/Feb/2021 18:47:12] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:47:12 INFO-127.0.0.1 - - [24/Feb/2021 18:47:12] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:47:13 INFO-127.0.0.1 - - [24/Feb/2021 18:47:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:47:13 INFO-127.0.0.1 - - [24/Feb/2021 18:47:13] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:47:31 INFO-127.0.0.1 - - [24/Feb/2021 18:47:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:47:31 INFO-127.0.0.1 - - [24/Feb/2021 18:47:31] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:47:32 INFO-127.0.0.1 - - [24/Feb/2021 18:47:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:47:32 INFO-127.0.0.1 - - [24/Feb/2021 18:47:32] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:48:43 INFO-127.0.0.1 - - [24/Feb/2021 18:48:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:49:23 INFO-127.0.0.1 - - [24/Feb/2021 18:49:23] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 18:49:23 INFO-127.0.0.1 - - [24/Feb/2021 18:49:23] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 18:49:23 INFO-127.0.0.1 - - [24/Feb/2021 18:49:23] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 18:49:25 INFO-127.0.0.1 - - [24/Feb/2021 18:49:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 18:50:40 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\app.py', reloading
+2021-02-24 18:50:40 INFO- * Restarting with stat
+2021-02-24 19:30:11 INFO- * Restarting with stat
+2021-02-24 19:30:12 WARNING- * Debugger is active!
+2021-02-24 19:30:12 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:30:12 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:30:15 INFO-127.0.0.1 - - [24/Feb/2021 19:30:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:30:15 INFO-127.0.0.1 - - [24/Feb/2021 19:30:15] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:30:16 INFO-127.0.0.1 - - [24/Feb/2021 19:30:16] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:30:16 INFO-127.0.0.1 - - [24/Feb/2021 19:30:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:31:47 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:31:48 INFO- * Restarting with stat
+2021-02-24 19:31:49 WARNING- * Debugger is active!
+2021-02-24 19:31:49 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:31:49 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:32:17 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:32:17 INFO- * Restarting with stat
+2021-02-24 19:32:18 WARNING- * Debugger is active!
+2021-02-24 19:32:18 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:32:18 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:32:40 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:32:40 INFO- * Restarting with stat
+2021-02-24 19:32:41 WARNING- * Debugger is active!
+2021-02-24 19:32:41 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:32:41 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:32:41 INFO-127.0.0.1 - - [24/Feb/2021 19:32:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:32:41 INFO-127.0.0.1 - - [24/Feb/2021 19:32:41] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:32:41 INFO-127.0.0.1 - - [24/Feb/2021 19:32:41] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:32:42 INFO-127.0.0.1 - - [24/Feb/2021 19:32:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:33:26 INFO-127.0.0.1 - - [24/Feb/2021 19:33:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:33:26 INFO-127.0.0.1 - - [24/Feb/2021 19:33:26] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:33:26 INFO-127.0.0.1 - - [24/Feb/2021 19:33:26] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:33:26 INFO-127.0.0.1 - - [24/Feb/2021 19:33:26] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:33:26 INFO-127.0.0.1 - - [24/Feb/2021 19:33:26] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:33:26 INFO-127.0.0.1 - - [24/Feb/2021 19:33:26] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:33:27 INFO-127.0.0.1 - - [24/Feb/2021 19:33:27] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:34:08 INFO- * Restarting with stat
+2021-02-24 19:34:10 WARNING- * Debugger is active!
+2021-02-24 19:34:11 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:34:11 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:34:17 INFO-127.0.0.1 - - [24/Feb/2021 19:34:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:35:16 INFO- * Restarting with stat
+2021-02-24 19:35:17 WARNING- * Debugger is active!
+2021-02-24 19:35:17 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:35:17 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:35:19 INFO-Data format done.
+2021-02-24 19:35:19 INFO-[82238, 'First Owner', 'Petrol', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:35:19 INFO-Preprocessing pipeline loaded
+2021-02-24 19:35:19 INFO-127.0.0.1 - - [24/Feb/2021 19:35:19] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:35:19 INFO-127.0.0.1 - - [24/Feb/2021 19:35:19] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:35:19 INFO-127.0.0.1 - - [24/Feb/2021 19:35:19] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:35:19 INFO-127.0.0.1 - - [24/Feb/2021 19:35:19] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:35:20 INFO-127.0.0.1 - - [24/Feb/2021 19:35:20] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:35:20 INFO-127.0.0.1 - - [24/Feb/2021 19:35:20] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:35:20 INFO-127.0.0.1 - - [24/Feb/2021 19:35:20] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:35:24 INFO-127.0.0.1 - - [24/Feb/2021 19:35:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:35:24 INFO-127.0.0.1 - - [24/Feb/2021 19:35:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:35:47 INFO-Data format done.
+2021-02-24 19:35:47 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:35:47 INFO-Preprocessing pipeline loaded
+2021-02-24 19:35:47 INFO-127.0.0.1 - - [24/Feb/2021 19:35:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:35:47 INFO-127.0.0.1 - - [24/Feb/2021 19:35:47] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:35:48 INFO-127.0.0.1 - - [24/Feb/2021 19:35:48] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:35:48 INFO-127.0.0.1 - - [24/Feb/2021 19:35:48] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:35:48 INFO-127.0.0.1 - - [24/Feb/2021 19:35:48] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:35:48 INFO-127.0.0.1 - - [24/Feb/2021 19:35:48] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:36:20 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:36:20 INFO- * Restarting with stat
+2021-02-24 19:36:21 WARNING- * Debugger is active!
+2021-02-24 19:36:21 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:36:21 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:36:48 INFO- * Restarting with stat
+2021-02-24 19:36:49 WARNING- * Debugger is active!
+2021-02-24 19:36:49 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:36:49 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:36:53 INFO-127.0.0.1 - - [24/Feb/2021 19:36:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:37:03 INFO-Data format done.
+2021-02-24 19:37:03 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:37:03 INFO-Preprocessing pipeline loaded
+2021-02-24 19:37:03 INFO-127.0.0.1 - - [24/Feb/2021 19:37:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:37:03 INFO-127.0.0.1 - - [24/Feb/2021 19:37:03] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:37:03 INFO-127.0.0.1 - - [24/Feb/2021 19:37:03] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:37:03 INFO-127.0.0.1 - - [24/Feb/2021 19:37:03] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:37:04 INFO-127.0.0.1 - - [24/Feb/2021 19:37:04] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:37:04 INFO-127.0.0.1 - - [24/Feb/2021 19:37:04] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:38:07 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:38:07 INFO- * Restarting with stat
+2021-02-24 19:38:08 WARNING- * Debugger is active!
+2021-02-24 19:38:08 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:38:08 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:38:17 INFO- * Restarting with stat
+2021-02-24 19:38:18 WARNING- * Debugger is active!
+2021-02-24 19:38:18 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:38:18 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:38:23 INFO-127.0.0.1 - - [24/Feb/2021 19:38:23] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:38:34 INFO-Data format done.
+2021-02-24 19:38:34 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:38:34 INFO-Preprocessing pipeline loaded
+2021-02-24 19:38:34 INFO-127.0.0.1 - - [24/Feb/2021 19:38:34] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:38:34 INFO-127.0.0.1 - - [24/Feb/2021 19:38:34] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:38:34 INFO-127.0.0.1 - - [24/Feb/2021 19:38:34] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:38:35 INFO-127.0.0.1 - - [24/Feb/2021 19:38:35] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:38:35 INFO-127.0.0.1 - - [24/Feb/2021 19:38:35] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:38:35 INFO-127.0.0.1 - - [24/Feb/2021 19:38:35] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:39:28 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:39:28 INFO- * Restarting with stat
+2021-02-24 19:40:14 INFO- * Restarting with stat
+2021-02-24 19:40:15 WARNING- * Debugger is active!
+2021-02-24 19:40:15 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:40:15 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:40:26 INFO-127.0.0.1 - - [24/Feb/2021 19:40:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:40:35 INFO-Data format done.
+2021-02-24 19:40:35 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:40:35 INFO-Preprocessing pipeline loaded
+2021-02-24 19:40:35 INFO-127.0.0.1 - - [24/Feb/2021 19:40:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:40:35 INFO-127.0.0.1 - - [24/Feb/2021 19:40:35] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:40:35 INFO-127.0.0.1 - - [24/Feb/2021 19:40:35] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:40:35 INFO-127.0.0.1 - - [24/Feb/2021 19:40:35] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:40:36 INFO-127.0.0.1 - - [24/Feb/2021 19:40:36] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:40:36 INFO-127.0.0.1 - - [24/Feb/2021 19:40:36] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:40:57 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:40:57 INFO- * Restarting with stat
+2021-02-24 19:40:58 WARNING- * Debugger is active!
+2021-02-24 19:40:58 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:40:58 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:41:09 INFO- * Restarting with stat
+2021-02-24 19:41:10 WARNING- * Debugger is active!
+2021-02-24 19:41:10 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:41:10 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:41:14 INFO-127.0.0.1 - - [24/Feb/2021 19:41:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:41:24 INFO-Data format done.
+2021-02-24 19:41:24 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:41:24 INFO-Preprocessing pipeline loaded
+2021-02-24 19:41:25 INFO-127.0.0.1 - - [24/Feb/2021 19:41:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:41:25 INFO-127.0.0.1 - - [24/Feb/2021 19:41:25] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:41:25 INFO-127.0.0.1 - - [24/Feb/2021 19:41:25] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:41:25 INFO-127.0.0.1 - - [24/Feb/2021 19:41:25] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:41:25 INFO-127.0.0.1 - - [24/Feb/2021 19:41:25] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:41:25 INFO-127.0.0.1 - - [24/Feb/2021 19:41:25] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:42:32 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:42:33 INFO- * Restarting with stat
+2021-02-24 19:42:34 WARNING- * Debugger is active!
+2021-02-24 19:42:34 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:42:34 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:42:41 INFO- * Restarting with stat
+2021-02-24 19:42:42 WARNING- * Debugger is active!
+2021-02-24 19:42:42 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:42:42 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:42:48 INFO-127.0.0.1 - - [24/Feb/2021 19:42:48] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:42:58 INFO-Data format done.
+2021-02-24 19:42:58 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:42:58 INFO-Preprocessing pipeline loaded
+2021-02-24 19:42:58 INFO-127.0.0.1 - - [24/Feb/2021 19:42:58] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-02-24 19:42:58 INFO-127.0.0.1 - - [24/Feb/2021 19:42:58] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:42:58 INFO-127.0.0.1 - - [24/Feb/2021 19:42:58] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:42:58 INFO-127.0.0.1 - - [24/Feb/2021 19:42:58] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:42:58 INFO-127.0.0.1 - - [24/Feb/2021 19:42:58] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:42:58 INFO-127.0.0.1 - - [24/Feb/2021 19:42:58] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:43:16 INFO- * Restarting with stat
+2021-02-24 19:43:18 WARNING- * Debugger is active!
+2021-02-24 19:43:18 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:43:18 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:43:20 INFO-127.0.0.1 - - [24/Feb/2021 19:43:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:43:30 INFO-Data format done.
+2021-02-24 19:43:30 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:43:30 INFO-Preprocessing pipeline loaded
+2021-02-24 19:45:15 INFO- * Restarting with stat
+2021-02-24 19:45:17 WARNING- * Debugger is active!
+2021-02-24 19:45:17 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:45:17 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:45:20 INFO-127.0.0.1 - - [24/Feb/2021 19:45:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:45:33 INFO-Data format done.
+2021-02-24 19:45:33 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:45:33 INFO-Preprocessing pipeline loaded
+2021-02-24 19:46:45 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\predict.py', reloading
+2021-02-24 19:46:45 INFO- * Restarting with stat
+2021-02-24 19:46:47 WARNING- * Debugger is active!
+2021-02-24 19:46:47 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:46:47 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:46:54 INFO- * Restarting with stat
+2021-02-24 19:46:55 WARNING- * Debugger is active!
+2021-02-24 19:46:55 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:46:55 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:46:58 INFO-127.0.0.1 - - [24/Feb/2021 19:46:58] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-24 19:47:08 INFO-Data format done.
+2021-02-24 19:47:08 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:47:08 INFO-Preprocessing pipeline loaded
+2021-02-24 19:47:08 INFO-Data is preprocessed.
+2021-02-24 19:47:09 INFO-XGBoost model is loaded
+2021-02-24 19:47:09 INFO-Prediction done.
+2021-02-24 19:47:09 INFO-Y standard scaler loaded
+2021-02-24 19:47:09 INFO-Inverse transform done.
+2021-02-24 19:47:09 INFO-127.0.0.1 - - [24/Feb/2021 19:47:09] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:48:21 INFO-Data format done.
+2021-02-24 19:48:21 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:48:21 INFO-Preprocessing pipeline loaded
+2021-02-24 19:48:21 INFO-Data is preprocessed.
+2021-02-24 19:48:22 INFO-XGBoost model is loaded
+2021-02-24 19:48:22 INFO-Prediction done.
+2021-02-24 19:48:22 INFO-Y standard scaler loaded
+2021-02-24 19:48:22 INFO-Inverse transform done.
+2021-02-24 19:48:22 INFO-127.0.0.1 - - [24/Feb/2021 19:48:22] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:49:24 INFO-Data format done.
+2021-02-24 19:49:24 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:49:24 INFO-Preprocessing pipeline loaded
+2021-02-24 19:49:24 INFO-Data is preprocessed.
+2021-02-24 19:49:24 INFO-XGBoost model is loaded
+2021-02-24 19:49:24 INFO-Prediction done.
+2021-02-24 19:49:24 INFO-Y standard scaler loaded
+2021-02-24 19:49:24 INFO-Inverse transform done.
+2021-02-24 19:49:24 INFO-127.0.0.1 - - [24/Feb/2021 19:49:24] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:49:24 INFO-127.0.0.1 - - [24/Feb/2021 19:49:24] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:49:24 INFO-127.0.0.1 - - [24/Feb/2021 19:49:24] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:49:25 INFO-127.0.0.1 - - [24/Feb/2021 19:49:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:49:36 INFO-Data format done.
+2021-02-24 19:49:36 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:49:36 INFO-Preprocessing pipeline loaded
+2021-02-24 19:49:36 INFO-Data is preprocessed.
+2021-02-24 19:49:36 INFO-XGBoost model is loaded
+2021-02-24 19:49:36 INFO-Prediction done.
+2021-02-24 19:49:36 INFO-Y standard scaler loaded
+2021-02-24 19:49:36 INFO-Inverse transform done.
+2021-02-24 19:49:36 INFO-127.0.0.1 - - [24/Feb/2021 19:49:36] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:49:36 INFO-127.0.0.1 - - [24/Feb/2021 19:49:36] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:49:36 INFO-127.0.0.1 - - [24/Feb/2021 19:49:36] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:49:37 INFO-127.0.0.1 - - [24/Feb/2021 19:49:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:49:42 INFO-Data format done.
+2021-02-24 19:49:42 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:49:42 INFO-Preprocessing pipeline loaded
+2021-02-24 19:49:42 INFO-Data is preprocessed.
+2021-02-24 19:49:42 INFO-XGBoost model is loaded
+2021-02-24 19:49:42 INFO-Prediction done.
+2021-02-24 19:49:42 INFO-Y standard scaler loaded
+2021-02-24 19:49:42 INFO-Inverse transform done.
+2021-02-24 19:49:42 INFO-127.0.0.1 - - [24/Feb/2021 19:49:42] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:49:42 INFO-127.0.0.1 - - [24/Feb/2021 19:49:42] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:49:42 INFO-127.0.0.1 - - [24/Feb/2021 19:49:42] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:49:43 INFO-127.0.0.1 - - [24/Feb/2021 19:49:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:50:57 INFO-Data format done.
+2021-02-24 19:50:57 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:50:57 INFO-Preprocessing pipeline loaded
+2021-02-24 19:50:57 INFO-Data is preprocessed.
+2021-02-24 19:50:57 INFO-XGBoost model is loaded
+2021-02-24 19:50:57 INFO-Prediction done.
+2021-02-24 19:50:57 INFO-Y standard scaler loaded
+2021-02-24 19:50:57 INFO-Inverse transform done.
+2021-02-24 19:50:57 INFO-127.0.0.1 - - [24/Feb/2021 19:50:57] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:50:57 INFO-127.0.0.1 - - [24/Feb/2021 19:50:57] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:50:57 INFO-127.0.0.1 - - [24/Feb/2021 19:50:57] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:50:58 INFO-127.0.0.1 - - [24/Feb/2021 19:50:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:51:13 INFO-Data format done.
+2021-02-24 19:51:13 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:51:13 INFO-Preprocessing pipeline loaded
+2021-02-24 19:51:13 INFO-Data is preprocessed.
+2021-02-24 19:51:13 INFO-XGBoost model is loaded
+2021-02-24 19:51:13 INFO-Prediction done.
+2021-02-24 19:51:13 INFO-Y standard scaler loaded
+2021-02-24 19:51:13 INFO-Inverse transform done.
+2021-02-24 19:51:13 INFO-127.0.0.1 - - [24/Feb/2021 19:51:13] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:52:00 INFO-Data format done.
+2021-02-24 19:52:00 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 465000.0, 7, 1, 0]
+2021-02-24 19:52:00 INFO-Preprocessing pipeline loaded
+2021-02-24 19:52:00 INFO-Data is preprocessed.
+2021-02-24 19:52:00 INFO-XGBoost model is loaded
+2021-02-24 19:52:00 INFO-Prediction done.
+2021-02-24 19:52:00 INFO-Y standard scaler loaded
+2021-02-24 19:52:00 INFO-Inverse transform done.
+2021-02-24 19:52:00 INFO-127.0.0.1 - - [24/Feb/2021 19:52:00] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-24 19:52:00 INFO-127.0.0.1 - - [24/Feb/2021 19:52:00] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-24 19:52:00 INFO-127.0.0.1 - - [24/Feb/2021 19:52:00] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-24 19:52:01 INFO-127.0.0.1 - - [24/Feb/2021 19:52:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-24 19:52:25 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\app.py', reloading
+2021-02-24 19:52:25 INFO- * Restarting with stat
+2021-02-24 19:52:33 INFO- * Restarting with stat
+2021-02-24 19:52:35 WARNING- * Debugger is active!
+2021-02-24 19:52:35 INFO- * Debugger PIN: 654-316-708
+2021-02-24 19:52:35 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-24 19:52:50 INFO-127.0.0.1 - - [24/Feb/2021 19:52:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-02-24 19:52:50 INFO-127.0.0.1 - - [24/Feb/2021 19:52:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-24 19:52:51 INFO-127.0.0.1 - - [24/Feb/2021 19:52:51] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-24 19:52:51 INFO-127.0.0.1 - - [24/Feb/2021 19:52:51] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-24 19:52:51 INFO-127.0.0.1 - - [24/Feb/2021 19:52:51] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-02-24 19:52:51 INFO-127.0.0.1 - - [24/Feb/2021 19:52:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:52:51 INFO-127.0.0.1 - - [24/Feb/2021 19:52:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-24 19:53:26 INFO- * Detected change in 'D:\\Machine Learning Projects\\Car Price Prediction\\Car_Scrapping\\app.py', reloading
+2021-02-24 19:53:26 INFO- * Restarting with stat
