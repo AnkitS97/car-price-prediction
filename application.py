@@ -3,17 +3,17 @@ from flask_cors import cross_origin, CORS
 from train import TrainModel
 from predict import Predict
 
-app = Flask(__name__)
-CORS(app)
+application = Flask(__name__)
+CORS(application)
 
 
-@app.route('/', methods=['GET'])
+@application.route('/', methods=['GET'])
 @cross_origin()
 def home_page():
     return render_template('index.html', price=0)
 
 
-@app.route('/predict', methods=['POST'])
+@application.route('/predict', methods=['POST'])
 @cross_origin()
 def predict():
     if request.form:
@@ -25,7 +25,7 @@ def predict():
         return render_template('index.html', price=0)
 
 
-@app.route('/train', methods=['GET'])
+@application.route('/train', methods=['GET'])
 @cross_origin()
 def train_model():
     trainmodel = TrainModel('car_data.csv', 'model_data.csv')
@@ -34,4 +34,7 @@ def train_model():
 
 
 if __name__ == '__main__':
-    app.run(port=8000, debug=True)
+    # for running on local machine
+    application.run(port=8000)
+    # Uncomment this for running on cloud
+    # application.run()
