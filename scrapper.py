@@ -21,11 +21,8 @@ def scrape_car_data(wd: webdriver):
     wd.get(search_url)
 
     all_cars = []
-    cars_count = 0
     cars_models = set()
-    result_start = 0
     number_of_thumbnails = 0
-    car_urls = set()
 
     while number_of_thumbnails < 5000:
         scroll_to_end(wd)
@@ -37,25 +34,10 @@ def scrape_car_data(wd: webdriver):
         number_of_thumbnails = len(thumbnails)
 
     car_urls = {thumb.get_attribute('href') for thumb in thumbnails if thumb.get_attribute('href')}
-    # for i in range(5000):
-    #     thumb = thumbnails[i]
-    #     if thumb.get_attribute('href'):
-    #         car_urls.add(thumb.get_attribute('href'))
 
     for url in car_urls:
         wd.get(url)
         time.sleep(1)
-        # try:
-        #     time.sleep(1)
-        #     thumbnails[cars_count].click()
-        #     time.sleep(1)
-        # except Exception as e:
-        #     try:
-        #         wd.back()
-        #     except Exception as exp:
-        #         print("go back exception")
-        #         continue
-        #     continue
 
         model, car = get_car_details(wd)
         if car is not None:
@@ -66,20 +48,6 @@ def scrape_car_data(wd: webdriver):
         if cars_count >= 5000:
             print(f"Found: {cars_count} Cars data.")
             break
-        # try:
-        #     wd.back()
-        # except Exception as e:
-        #     print("go back exception")
-        #     continue
-
-        # result_start = number_of_thumbnails
-        # wd.back()
-    # model, car = get_car_details(wd)
-    # cars_models.add(model)
-    # df = pd.DataFrame(cars_models)
-    # df.to_csv('models.csv')
-    # all_cars.append(car)
-    # wd.back()
 
     df = pd.DataFrame(cars_models)
     df.to_csv('models.csv')
@@ -133,7 +101,6 @@ def get_model_price(web_driver_path):
 
     price_df = pd.DataFrame(res)
     mod = pd.concat([model_df, price_df], axis=1)
-    # mod.columns = ['0', '1']
     mod.to_csv('new_models.csv')
 
 
@@ -141,7 +108,6 @@ def get_price(wd: webdriver, models):
     model_prices_df = pd.read_csv('new_models.csv')
     model_prices = model_prices_df['0.1'].values
     prices = list(model_prices)
-    # prices = [0] * len(models)
     for i, model in enumerate(models):
         print(i)
         if prices[i] != '0':
@@ -178,11 +144,9 @@ def get_price(wd: webdriver, models):
     return prices
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     driver_path = "chromedriver.exe"
     get_cars_data(driver_path)
 
     get_model_price(driver_path)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
