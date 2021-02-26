@@ -470,3 +470,51 @@
 2021-02-24 19:53:58 INFO-127.0.0.1 - - [24/Feb/2021 19:53:58] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
 2021-02-24 19:53:58 INFO-127.0.0.1 - - [24/Feb/2021 19:53:58] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
 2021-02-24 19:54:00 INFO-127.0.0.1 - - [24/Feb/2021 19:54:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-25 09:38:19 INFO- * Restarting with stat
+2021-02-25 09:38:20 WARNING- * Debugger is active!
+2021-02-25 09:38:20 INFO- * Debugger PIN: 654-316-708
+2021-02-25 09:38:20 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-25 09:38:29 INFO-127.0.0.1 - - [25/Feb/2021 09:38:29] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-25 09:38:29 INFO-127.0.0.1 - - [25/Feb/2021 09:38:29] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2021-02-25 09:38:30 INFO-127.0.0.1 - - [25/Feb/2021 09:38:30] "[37mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 200 -
+2021-02-25 09:38:30 INFO-127.0.0.1 - - [25/Feb/2021 09:38:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-25 09:39:29 INFO-Data format done.
+2021-02-25 09:39:29 INFO-[82238, 'First Owner', 'Petrol + CNG', 'MANUAL', 4.2, 230951.0, 7, 1, 1]
+2021-02-25 09:39:30 INFO-Preprocessing pipeline loaded
+2021-02-25 09:39:30 INFO-Data is preprocessed.
+2021-02-25 09:39:31 INFO-XGBoost model is loaded
+2021-02-25 09:39:31 INFO-Prediction done.
+2021-02-25 09:39:31 INFO-Y standard scaler loaded
+2021-02-25 09:39:31 INFO-Inverse transform done.
+2021-02-25 09:39:31 INFO-127.0.0.1 - - [25/Feb/2021 09:39:31] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-25 10:11:55 INFO- * Restarting with stat
+2021-02-25 10:11:56 WARNING- * Debugger is active!
+2021-02-25 10:11:56 INFO- * Debugger PIN: 654-316-708
+2021-02-25 10:11:56 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-25 10:11:59 INFO-127.0.0.1 - - [25/Feb/2021 10:11:59] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-25 10:12:15 INFO-Data format done.
+2021-02-25 10:12:15 INFO-[82238, 'Second Owner', 'Petrol + CNG', 'MANUAL', 4.2, 599000.0, 7, 0, 1]
+2021-02-25 10:12:15 INFO-Preprocessing pipeline loaded
+2021-02-25 10:12:15 INFO-Data is preprocessed.
+2021-02-25 10:12:16 INFO-XGBoost model is loaded
+2021-02-25 10:12:16 INFO-Prediction done.
+2021-02-25 10:12:16 INFO-Y standard scaler loaded
+2021-02-25 10:12:16 INFO-Inverse transform done.
+2021-02-25 10:12:16 INFO-127.0.0.1 - - [25/Feb/2021 10:12:16] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-02-26 09:26:52 INFO- * Restarting with stat
+2021-02-26 09:26:53 WARNING- * Debugger is active!
+2021-02-26 09:26:53 INFO- * Debugger PIN: 654-316-708
+2021-02-26 09:26:53 INFO- * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2021-02-26 09:26:57 INFO-127.0.0.1 - - [26/Feb/2021 09:26:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-26 09:26:57 INFO-127.0.0.1 - - [26/Feb/2021 09:26:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-02-26 09:26:57 INFO-127.0.0.1 - - [26/Feb/2021 09:26:57] "[36mGET /static/highest-selling-luxury-cars-in.jpg HTTP/1.1[0m" 304 -
+2021-02-26 09:26:58 INFO-127.0.0.1 - - [26/Feb/2021 09:26:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-26 09:27:09 INFO-Data format done.
+2021-02-26 09:27:09 INFO-[82238, 'Second Owner', 'Petrol + LPG', 'AUTOMATIC', 4.2, 599000.0, 7, 0, 1]
+2021-02-26 09:27:09 INFO-Preprocessing pipeline loaded
+2021-02-26 09:27:09 INFO-Data is preprocessed.
+2021-02-26 09:27:10 INFO-XGBoost model is loaded
+2021-02-26 09:27:10 INFO-Prediction done.
+2021-02-26 09:27:10 INFO-Y standard scaler loaded
+2021-02-26 09:27:10 INFO-Inverse transform done.
+2021-02-26 09:27:10 INFO-127.0.0.1 - - [26/Feb/2021 09:27:10] "[37mPOST /predict HTTP/1.1[0m" 200 -

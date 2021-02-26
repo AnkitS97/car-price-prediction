@@ -14,7 +14,7 @@ log.setLevel(logging.INFO)
 
 class Predict:
     def __init__(self):
-        self.median_diff = 230951.0
+        self.median_diff = 599000.0
         self.model_file_path = 'xgbmodel.pkl'
         self.x_preprocess_file_path = 'x_preprocess.pkl'
         self.y_preprocess_file_path = 'y_scaler.pkl'
@@ -29,7 +29,7 @@ class Predict:
     def extract_features(self, data):
         response = [int(data['kilometers']), data['owner'], data['fuel'], data['transmission'], float(data['condition'])]
         if data['current_price'] == '0':
-            response.append(float(data['current_price']) + self.median_diff)
+            response.append(self.median_diff)
         else:
             response.append(float(data['current_price']))
         year = date.today().year
